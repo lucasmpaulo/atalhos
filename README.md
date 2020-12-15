@@ -8,3 +8,6 @@ Esta é uma mini ferramenta criada no módulo das Heurísticas de Nielsen do cur
   * CSS 3
   * JQuery
   * Mousetrap - Pode ser acessado no [link](https://craig.is/killing/mice)
+
+## Link da aplicação
+Você pode acessar o [link](https://misakilive.github.io/atalhos/) para visualizar e testar os atalhos de A a Z.
